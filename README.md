@@ -23,5 +23,4 @@ This website is open source with the hope that others will use the code to creat
 2. Refer to the [React Deployment](https://create-react-app.dev/docs/deployment) docs for deploying to `gh-pages`, Netlify, and other services.
 
 ## Thank you! ##
-
-
+All credit goes to https://github.com/adamalston/
