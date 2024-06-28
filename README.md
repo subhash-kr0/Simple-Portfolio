@@ -1,7 +1,3 @@
-<!-- # <img alt="Atom icon" src="public/icons/favicon.svg" height="24"/> subhash<span></span>.com &middot; [![CI](https://github.com/adamalston/v2/actions/workflows/ci.yml/badge.svg)](https://github.com/adamalston/v2/actions/workflows/ci.yml) [![Netlify status](https://api.netlify.com/api/v1/badges/332bbd91-59b7-4091-8781-6f41330399b4/deploy-status)](https://app.netlify.com/sites/adamalston/deploys) -->
-<!-- 
-The [adamalston.com](https://www.adamalston.com) website is built using [React](https://react.dev) and hosted on [Netlify](https://www.netlify.com). -->
-
 
 This website is designed to be simple and accessible. Dynamic particles create an interactive experience for visitors. The site offers two themes via a toggle: a dark theme (default) and a light theme. The selected theme persists between tabs, windows, and page reloads.
 
